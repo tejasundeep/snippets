@@ -1,0 +1,3 @@
+background: linear-gradient(90deg,#cf7c90,#a77cb4);
+-webkit-background-clip: text;
+color: transparent;
